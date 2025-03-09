@@ -5,3 +5,4 @@ openai
 langchain-core
 langchain-text-splitters
 langchain==0.0.259
+pydantic==1.10.12
