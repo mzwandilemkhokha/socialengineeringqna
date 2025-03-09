@@ -4,4 +4,4 @@ streamlit
 openai
 langchain-core
 langchain-text-splitters
-langchain==0.0.259
+
