@@ -1,7 +1,7 @@
 langchain-community
 langchain-openai
 streamlit
-langchain
 openai
 langchain-core
 langchain-text-splitters
+langchain==0.0.259
