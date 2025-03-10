@@ -248,7 +248,7 @@ tokenizers==0.15.1
 toml==0.10.2
 toolz==0.12.1
 torch
-torchvision==0.16.2
+torchvision
 tornado==6.4.2
 tqdm==4.66.1
 traitlets==5.14.1
